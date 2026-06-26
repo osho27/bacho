@@ -295,3 +295,8 @@ a.aprender-mas:hover{
     border-radius: 50%;
     display: block;
 }
+.complementario ul li{ /*** 4 ***/
+    background: url("imagenes/icon.PNG") no-repeat left center;
+    padding-left: 24px;
+    margin-bottom: 8px;
+}
